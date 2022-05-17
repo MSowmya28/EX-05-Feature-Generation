@@ -213,4 +213,6 @@ df5
 ![output](./ex.5.ds24.PNG)
 ![output](./ex.5.ds.25.PNG)
 
+# RESULT:
+Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
 
